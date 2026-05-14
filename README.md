@@ -1,18 +1,52 @@
 # 👋 Pedro Cavour
 
-## Marketing & Sales Professional
-
-Results-driven sales and marketing professional with experience in consultative sales, lead generation, customer relationship management, and business development. Passionate about building strong client relationships, driving growth, and creating meaningful customer experiences.
+## Sales & Marketing Professional | Lead Generation Specialist | B2B Business Development
 
 ---
 
 ## 🚀 About Me
 
-I hold a Bachelor's degree in Marketing from [Lewis University](https://www.lewisu.edu) and have professional experience across B2B sales, customer service, and commercial advising roles.
+Sales & Marketing professional with experience in consultative sales, lead generation, customer relationship management, and business development. I am passionate about building strong client relationships, driving business growth, and creating meaningful customer experiences through communication and strategic problem-solving.
 
-My background includes working in fast-paced, goal-oriented environments where I developed strong communication, prospecting, and relationship-building skills. I enjoy solving problems, adapting to challenges, and continuously improving both personally and professionally.
+In 2025, while working as a Commercial Advisor at Wizard by Pearson, I generated 500+ qualified leads through proactive prospecting, cold calling, follow-ups, and relationship-building strategies. This consistent pipeline development allowed me to achieve my monthly student enrollment quotas in a goal-oriented sales environment.
 
-I also proudly support initiatives connected to the [Tourette Association of America](https://tourette.org), which strengthened my resilience, empathy, and commitment to advocacy and inclusion.
+I hold a Bachelor's degree in Marketing from [Lewis University](https://www.lewisu.edu) and have professional experience across B2B sales, customer service, and commercial advising roles. My background has strengthened my adaptability, communication, and ability to thrive in fast-paced environments focused on performance and continuous growth.
+
+I also proudly support initiatives connected to the [Tourette Association of America](https://tourette.org), an experience that strengthened my resilience, empathy, and commitment to advocacy and inclusion.
+
+---
+
+## 💼 What I'm Looking For
+
+I am currently seeking opportunities in sales, marketing, business development, or customer success where I can contribute through relationship-building, lead generation, strategic communication, and consultative selling. I am especially interested in roles that offer growth opportunities, collaborative environments, and the ability to make a measurable impact on both customers and business performance.
+
+---
+
+## 🎯 Projects
+
+### Lead Generation & Sales Pipeline Development
+**Role:** Commercial Advisor — Wizard by Pearson  
+**Overview:**  
+Generated and qualified 500+ leads in 2025 through cold calling, follow-ups, referrals, and consultative outreach strategies. Managed pipeline activity and customer engagement to consistently meet monthly enrollment quotas.
+
+**Skills Used:**  
+- Lead Generation  
+- CRM Management  
+- Cold Calling  
+- Pipeline Management  
+- Consultative Sales  
+
+---
+
+### Customer Relationship & Retention Strategy
+**Overview:**  
+Developed long-term relationships with prospective and active students by identifying customer needs and presenting personalized educational solutions.
+
+**Skills Used:**  
+- Customer Retention  
+- Relationship Building  
+- Communication  
+- Solution Selling  
 
 ---
 
@@ -51,7 +85,7 @@ I also proudly support initiatives connected to the [Tourette Association of Ame
 
 ### Assessor Comercial — Wizard by Pearson
 - Conducted consultative sales and guided clients through the sales process
-- Generated and qualified leads through proactive prospecting and cold calling
+- Generated and qualified 500+ leads through proactive prospecting and cold calling
 - Managed sales pipelines and customer relationships
 - Developed tailored solutions based on customer needs
 - Supported business growth through customer engagement and retention strategies
@@ -82,17 +116,6 @@ I also proudly support initiatives connected to the [Tourette Association of Ame
 
 ---
 
-## 💼 Career Interests
-
-Currently seeking opportunities in:
-- Marketing
-- Sales Development
-- Business Development
-- Customer Success
-- Account Management
-
----
-
 ## 📊 Core Values
 
 - Adaptability
@@ -113,4 +136,4 @@ Currently seeking opportunities in:
 
 ---
 
-*Last updated: May 2026*
+*Last updated: May 14, 2026*
