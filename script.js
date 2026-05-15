@@ -3,13 +3,16 @@ const hamburger = document.querySelector('.hamburger');
 const navMenu = document.querySelector('.nav-menu');
 
 hamburger.addEventListener('click', () => {
-    navMenu.style.display = navMenu.style.display === 'flex' ? 'none' : 'flex';
+    const isOpen = navMenu.style.display === 'flex';
+    navMenu.style.display = isOpen ? 'none' : 'flex';
+    hamburger.setAttribute('aria-expanded', !isOpen);
 });
 
 // Close menu when a link is clicked
 document.querySelectorAll('.nav-link').forEach(link => {
     link.addEventListener('click', () => {
         navMenu.style.display = 'none';
+        hamburger.setAttribute('aria-expanded', 'false');
     });
 });
 
@@ -56,24 +59,25 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Navbar background change on scroll
-const navbar = document.querySelector('.navbar');
-window.addEventListener('scroll', () => {
+// Debounced scroll handler for better performance
+let ticking = false;
+
+function updateNavbarAndLinks() {
+    const navbar = document.querySelector('.navbar');
+    
+    // Update navbar shadow on scroll
     if (window.scrollY > 100) {
         navbar.style.boxShadow = '0 4px 15px rgba(0, 0, 0, 0.15)';
     } else {
         navbar.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.1)';
     }
-});
 
-// Active nav link on scroll
-window.addEventListener('scroll', () => {
+    // Update active nav link on scroll
     let current = '';
-    
     const sections = document.querySelectorAll('section');
+    
     sections.forEach(section => {
         const sectionTop = section.offsetTop;
-        const sectionHeight = section.clientHeight;
         if (scrollY >= sectionTop - 200) {
             current = section.getAttribute('id');
         }
@@ -85,6 +89,16 @@ window.addEventListener('scroll', () => {
             link.classList.add('active');
         }
     });
+}
+
+window.addEventListener('scroll', () => {
+    if (!ticking) {
+        requestAnimationFrame(() => {
+            updateNavbarAndLinks();
+            ticking = false;
+        });
+        ticking = true;
+    }
 });
 
 // Intersection Observer for animations
@@ -161,14 +175,20 @@ const counterObserver = new IntersectionObserver((entries) => {
     });
 });
 
-document.querySelector('.about-highlights')?.forEach(section => {
-    counterObserver.observe(section);
-});
+// Fixed: use querySelector to get single element, then observe it
+const highlightSection = document.querySelector('.about-highlights');
+if (highlightSection) {
+    counterObserver.observe(highlightSection);
+}
 
-// Click outside mobile menu to close
+// Click outside mobile menu to close (improved to not interfere with hamburger)
 document.addEventListener('click', (e) => {
-    if (!e.target.closest('.nav-container')) {
+    const isClickingHamburger = e.target.closest('.hamburger');
+    const isClickingNavMenu = e.target.closest('.nav-menu');
+    
+    if (!isClickingHamburger && !isClickingNavMenu && navMenu.style.display === 'flex') {
         navMenu.style.display = 'none';
+        hamburger.setAttribute('aria-expanded', 'false');
     }
 });
 
