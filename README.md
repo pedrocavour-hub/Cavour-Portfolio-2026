@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-Sales & Marketing professional with experience in consultative sales, lead generation, customer relationship management, and business development. I am passionate about building strong client relationships and driving business growth through strategic communication and relationship-building.
+Sales & Marketing professional with experience in consultative sales, lead generation, customer relationship management, and business development. I am passionate about building strong client relationships and driving business growth through strategic prospecting and customer engagement.
 
-In 2025, while working as a Commercial Advisor at Wizard by Pearson, I generated 500+ qualified leads through proactive prospecting, cold calling, follow-ups, and relationship-building strategies. This experience reinforced my ability to identify client needs, develop tailored solutions, and maintain productive business relationships.
+In 2025, while working as a Commercial Advisor at Wizard by Pearson, I generated 500+ qualified leads through proactive prospecting, cold calling, follow-ups, and relationship-building strategies. This experience solidified my expertise in high-volume lead generation and pipeline management in a competitive B2B sales environment.
 
-I hold a Bachelor's degree in Marketing from [Lewis University](https://www.lewisu.edu) and have professional experience across B2B sales, customer service, and commercial advising roles. My background combines technical CRM knowledge with strong interpersonal skills and a client-focused approach to business development.
+I hold a Bachelor's degree in Marketing from [Lewis University](https://www.lewisu.edu) and have professional experience across B2B sales, customer service, and commercial advising roles. My background combines strategic thinking with hands-on sales execution.
 
 I also proudly support initiatives connected to the [Tourette Association of America](https://tourette.org), an experience that strengthened my resilience, empathy, and commitment to advocacy and inclusion.
 
@@ -18,7 +18,7 @@ I also proudly support initiatives connected to the [Tourette Association of Ame
 
 ## 💼 What I'm Looking For
 
-I am currently seeking opportunities in sales, marketing, business development, or customer success where I can contribute through relationship-building, lead generation, strategic communication, and client engagement to drive measurable business outcomes.
+I am currently seeking opportunities in sales, marketing, business development, or customer success where I can contribute through relationship-building, lead generation, strategic communication, and proven sales execution to drive measurable business results.
 
 ---
 
@@ -27,7 +27,7 @@ I am currently seeking opportunities in sales, marketing, business development, 
 ### Lead Generation & Sales Pipeline Development
 **Role:** Commercial Advisor — Wizard by Pearson  
 **Overview:**  
-Generated and qualified 500+ leads in 2025 through cold calling, follow-ups, referrals, and consultative outreach strategies. Managed pipeline activity and customer engagement to consistently meet monthly targets and support revenue growth.
+Generated and qualified 500+ leads in 2025 through cold calling, follow-ups, referrals, and consultative outreach strategies. Managed pipeline activity and customer engagement to consistently meet monthly enrollment targets and drive business growth.
 
 **Skills Used:**  
 - Lead Generation  
@@ -84,11 +84,16 @@ Developed long-term relationships with prospective and active students by identi
 ## 📚 Professional Experience
 
 ### Assessor Comercial — Wizard by Pearson
-- Conducted consultative sales and guided clients through the sales process
-- Generated and qualified 500+ leads through proactive prospecting and cold calling
-- Managed sales pipelines and customer relationships
-- Developed tailored solutions based on customer needs
-- Supported business growth through customer engagement and retention strategies
+
+#### Lead Generation & Sales Pipeline Development
+- Generated 500+ qualified leads in 2025 through cold calling, follow-ups, referrals, and consultative outreach strategies to support student population growth
+- Maintained a 90%+ lead qualification accuracy rate through strong pipeline organization and consistent CRM management
+- Reached monthly enrollment quotas 90% of the time through strategic pipeline management and high-volume prospecting activity
+- Averaged 150–200 outbound dials and 40–50 outbound contacts daily in a fast-paced sales environment
+- Conducted daily prospecting activities including campaign monitoring, customer referrals, lead follow-ups, and relationship-building outreach
+- Improved response and engagement rates by 75% through personalized communication and customer-focused engagement strategies
+- Successfully guided prospects through the sales funnel from initial contact to enrollment
+- Built long-term customer relationships contributing to retention, referrals, and continued customer engagement
 
 ### Customer Service Sales Specialist — Sherwin-Williams
 - Delivered customer-focused sales support
@@ -136,4 +141,4 @@ Developed long-term relationships with prospective and active students by identi
 
 ---
 
-*Last updated: May 14, 2026*
+*Last updated: May 15, 2026*
