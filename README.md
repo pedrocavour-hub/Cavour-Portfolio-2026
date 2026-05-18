@@ -21,19 +21,19 @@
 
 ## 🚀 About Me
 
-Sales & Marketing professional with experience in consultative sales, lead generation, customer relationship management, and business development. I am passionate about building strong client relationships and driving measurable business results through strategic communication and relationship-focused strategies.
+Sales & Marketing professional with experience in consultative sales, lead generation, customer relationship management, and business development. I am passionate about building strong client relationships and driving meaningful results through strategic communication and continuous learning.
 
-In 2025, while working as a Commercial Advisor at Wizard by Pearson, I generated 500+ qualified leads through proactive prospecting, cold calling, follow-ups, and relationship-building strategies. This experience demonstrated my ability to execute high-volume sales activities while maintaining quality and consistently meeting organizational objectives.
+In 2025, while working as a Commercial Advisor at Wizard by Pearson, I generated 500+ qualified leads through proactive prospecting, cold calling, follow-ups, and relationship-building strategies.
 
-I hold a Bachelor's degree in Marketing from [Lewis University](https://www.lewisu.edu) and have professional experience across B2B sales, customer service, and commercial advising roles. My background combines practical sales execution with strategic thinking, enabling me to contribute meaningfully across diverse business development challenges.
+I hold a Bachelor's degree in Marketing from [Lewis University](https://www.lewisu.edu) and have professional experience across B2B sales, customer service, and commercial advising roles. My background combines technical proficiency with strong interpersonal skills, allowing me to excel in dynamic, goal-oriented environments.
 
-I also proudly support initiatives connected to the [Tourette Association of America](https://tourette.org), an experience that strengthened my resilience, empathy, and commitment to advocacy and inclusion.
+I also proudly support initiatives connected to the [Tourette Association of America](https://tourette.org), an experience that strengthened my resilience, empathy, and commitment to advocacy and community engagement.
 
 ---
 
 ## 💼 What I'm Looking For
 
-I am currently seeking opportunities in sales, marketing, business development, or customer success where I can contribute through relationship-building, lead generation, strategic communication, and customer-focused problem-solving. I thrive in dynamic environments where I can drive growth, build lasting client relationships, and make a tangible impact on revenue and team success.
+I am currently seeking opportunities in sales, marketing, business development, or customer success where I can contribute through relationship-building, lead generation, strategic communication, and customer-focused solutions.
 
 ---
 
@@ -42,7 +42,7 @@ I am currently seeking opportunities in sales, marketing, business development, 
 ### Lead Generation & Sales Pipeline Development
 **Role:** Commercial Advisor — Wizard by Pearson  
 **Overview:**  
-Generated and qualified 500+ leads in 2025 through cold calling, follow-ups, referrals, and consultative outreach strategies. Managed pipeline activity and customer engagement to consistently meet monthly enrollment quotas and support organizational growth objectives.
+Generated and qualified 500+ leads in 2025 through cold calling, follow-ups, referrals, and consultative outreach strategies. Managed pipeline activity and customer engagement to consistently meet enrollment targets.
 
 **Skills Used:**  
 - Lead Generation  
@@ -55,7 +55,7 @@ Generated and qualified 500+ leads in 2025 through cold calling, follow-ups, ref
 
 ### Customer Relationship & Retention Strategy
 **Overview:**  
-Developed long-term relationships with prospective and active students by identifying customer needs and presenting personalized educational solutions. Contributed to customer retention through proactive engagement and solution-focused communication.
+Developed long-term relationships with prospective and active students by identifying customer needs and presenting personalized educational solutions. Contributed to customer retention through proactive engagement and relationship nurturing.
 
 **Skills Used:**  
 - Customer Retention  
@@ -149,8 +149,35 @@ Developed long-term relationships with prospective and active students by identi
 
 ## 🌟 Beyond Work
 
+### 🌟 Tourette Association of America — Youth Ambassador
+
+I was fortunate enough to serve as a Youth Ambassador for the [Tourette Association of America](https://tourette.org), where I focused on advocacy, education, public speaking, and community outreach initiatives centered around Tourette Syndrome awareness and inclusion.
+
+Through this experience, I developed strong communication, leadership, and presentation skills by educating students, families, and educators about Tourette Syndrome and the importance of empathy, inclusion, and understanding in school communities.
+
+#### Key Contributions & Accomplishments
+- Delivered educational presentations and awareness workshops for students and school communities
+- Represented the Tourette Association of America through advocacy and outreach initiatives
+- Strengthened public speaking and audience engagement skills through live presentations
+- Helped create inclusive conversations surrounding neurological diversity and mental health awareness
+- Collaborated with educators and community members to promote awareness and understanding
+
+#### Featured Story
+📖 [A Tourette Conversation: Anthony Ervin and Pedro Cavour](https://tourette.org/resource/a-tourette-conversation-anthony-ervin-and-pedro-cavour)
+
+---
+
+### 📸 Advocacy & Public Speaking
+
+#### Educating Students About Tourette Syndrome
+![Pedro Cavour presenting a Tourette Syndrome awareness session](./428c0747-4747-4d36-91bd-a2bc89ff7e77.png)
+
+*Presenting educational workshops for elementary school students as part of my advocacy work with the Tourette Association of America.*
+
+---
+
 ### Community & Advocacy
-- **Tourette Association of America Supporter** — Actively support and advocate for initiatives promoting awareness, inclusion, and support for individuals living with Tourette Syndrome
+- **Tourette Association of America Youth Ambassador** — Actively served as an advocate for initiatives promoting awareness, inclusion, and support for individuals living with Tourette Syndrome
 - Strong commitment to mental health advocacy and community engagement
 
 ### Personal Development
@@ -165,7 +192,7 @@ Developed long-term relationships with prospective and active students by identi
 - Reading about business strategy, sales psychology, and personal development
 
 ### Volunteer Experience
-- Active participant in Tourette Association of America initiatives
+- Youth Ambassador for the Tourette Association of America
 - Committed to supporting underrepresented communities in business and professional development
 
 ---
@@ -179,4 +206,4 @@ Developed long-term relationships with prospective and active students by identi
 
 ---
 
-*Last updated: May 15, 2026*
+*Last updated: May 18, 2026*
