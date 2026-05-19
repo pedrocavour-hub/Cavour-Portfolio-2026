@@ -3,15 +3,15 @@ const hamburger = document.querySelector('.hamburger');
 const navMenu = document.querySelector('.nav-menu');
 
 hamburger.addEventListener('click', () => {
-    const isOpen = navMenu.style.display === 'flex';
-    navMenu.style.display = isOpen ? 'none' : 'flex';
-    hamburger.setAttribute('aria-expanded', !isOpen);
+    navMenu.classList.toggle('active');
+    const isOpen = navMenu.classList.contains('active');
+    hamburger.setAttribute('aria-expanded', isOpen);
 });
 
 // Close menu when a link is clicked
 document.querySelectorAll('.nav-link').forEach(link => {
     link.addEventListener('click', () => {
-        navMenu.style.display = 'none';
+        navMenu.classList.remove('active');
         hamburger.setAttribute('aria-expanded', 'false');
     });
 });
@@ -140,6 +140,14 @@ document.querySelectorAll('.skill-category').forEach(skill => {
     observer.observe(skill);
 });
 
+// Observe education cards
+document.querySelectorAll('.education-card').forEach(card => {
+    card.style.opacity = '0';
+    card.style.transform = 'translateY(20px)';
+    card.style.transition = 'all 0.6s ease';
+    observer.observe(card);
+});
+
 // Number counter animation
 function animateCounter(element, target, duration = 2000) {
     let current = 0;
@@ -186,17 +194,22 @@ document.addEventListener('click', (e) => {
     const isClickingHamburger = e.target.closest('.hamburger');
     const isClickingNavMenu = e.target.closest('.nav-menu');
     
-    if (!isClickingHamburger && !isClickingNavMenu && navMenu.style.display === 'flex') {
-        navMenu.style.display = 'none';
+    if (!isClickingHamburger && !isClickingNavMenu && navMenu.classList.contains('active')) {
+        navMenu.classList.remove('active');
         hamburger.setAttribute('aria-expanded', 'false');
     }
 });
 
-// Contact form link tracking (optional - for analytics)
+// Contact form link tracking
 document.querySelectorAll('.contact-card, .cta-buttons a').forEach(link => {
     link.addEventListener('click', function() {
         console.log('User clicked contact link:', this.href);
     });
+});
+
+// Resume download tracking
+document.querySelector('.btn-resume')?.addEventListener('click', function() {
+    console.log('User downloading resume');
 });
 
 // Add CSS for active nav link
@@ -212,17 +225,49 @@ style.textContent = `
 `;
 document.head.appendChild(style);
 
+// Lazy load images for better performance
+function lazyLoadImages() {
+    const images = document.querySelectorAll('img[data-src]');
+    if ('IntersectionObserver' in window) {
+        const imageObserver = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const img = entry.target;
+                    img.src = img.dataset.src;
+                    img.removeAttribute('data-src');
+                    observer.unobserve(img);
+                }
+            });
+        });
+        images.forEach(img => imageObserver.observe(img));
+    }
+}
+
 // Preload images for better performance
 function preloadImages() {
-    const images = document.querySelectorAll('img');
+    const images = document.querySelectorAll('img:not([data-src])');
     images.forEach(img => {
         const newImg = new Image();
         newImg.src = img.src;
     });
 }
 
-window.addEventListener('load', preloadImages);
+window.addEventListener('load', () => {
+    preloadImages();
+    lazyLoadImages();
+});
 
 // Log page view (for analytics integration)
 console.log('Portfolio loaded successfully');
 console.log('Current page:', window.location.href);
+
+// Dark mode toggle (optional)
+function initDarkMode() {
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (prefersDark) {
+        document.body.classList.add('dark-mode');
+    }
+}
+
+// Initialize dark mode on load
+window.addEventListener('DOMContentLoaded', initDarkMode);
